@@ -1,0 +1,104 @@
+.big-icon {
+    width: 2rem;
+    height: 2rem;
+    margin-right: 2%;
+    fill: #0d6efd;
+}
+
+#navbar-toggle-cbox {
+    display: none
+}
+
+#navbar-toggle-cbox:checked~.collapse {
+    display: block;
+}
+
+li {
+    margin: 0;
+    padding: 0.2em;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.award {
+    color: #c43535;
+    font-style: italic
+}
+
+.box:before {
+    border-radius: 4px;
+    color: #ffffff;
+    font-size: 11px;
+    position: relative;
+    bottom: 2.5px;
+    padding: 2.2px
+}
+
+.conference:before {
+    background: #006cbf;
+    content: "Conference"
+}
+
+.journal:before {
+    background: #bf0000;
+    content: "Journal"
+}
+
+.technical-report:before {
+    background: #6b6b6b;
+    content: "Technical Report"
+}
+
+.preprint:before {
+    background: #6b6b6b;
+    content: "Preprint"
+}
+
+.thesis:before {
+    background: #480ad8;
+    content: "Thesis"
+}
+
+.workshop:before {
+    background: #1c912b;
+    content: "Workshop"
+}
+
+.talk:before {
+    background: #ffb236;
+    content: "Talk"
+}
+
+.distinguished-artifact-reviewer:before {
+    background: #bf0000;
+    content: "Award: Distinguished artifact reviewer"
+}
+
+.pets-artifact {
+    background: #000000;
+    font-weight: bold;
+    color: #72bf02;
+    padding: 2px;
+    text-decoration: none;
+    font-size: 1em;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pets-artifact:visited {
+    color: #72bf02;
+}

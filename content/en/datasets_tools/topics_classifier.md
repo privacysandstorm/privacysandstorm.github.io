@@ -12,6 +12,9 @@ To learn more about the context behind our need to re-implement this classifier,
 you can read this [blog
 post](https://yohan.beugin.org/posts/2024_02_topics_api_web_classifier.html).
 
+<img src="/github_topics_classifier.png" />
+
+
 ## Repository
 
 - https://github.com/yohhaan/topics_classifier

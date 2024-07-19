@@ -51,3 +51,6 @@ results at the following URLs (in addition to in the buckets above):
 - Generated list of enrollment sites and corresponding APIs: https://privacysandstorm-public-data.s3.us-east-2.amazonaws.com/well-known-crawler/attestation_known_apis.tsv
 
 
+<img src="/attestations_known_apis.png" />
+
+

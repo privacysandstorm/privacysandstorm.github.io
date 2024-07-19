@@ -6,7 +6,7 @@ on:
   pull_request:
 jobs:
   deploy:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-20.04
     permissions:
       contents: write
     concurrency:
@@ -18,8 +18,9 @@ jobs:
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
-      # - name: Download theme
-      #   run: mkdir -p themes/hugo-geekdoc/ && curl -L https://github.com/thegeeklab/hugo-geekdoc/releases/latest/download/hugo-geekdoc.tar.gz | tar -xz -C themes/hugo-geekdoc/ --strip-components=1
+        with:
+          hugo-version: 'latest'
+          extended: true
       - name: Build
         run: hugo
       - name: Deploy

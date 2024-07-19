@@ -53,7 +53,7 @@ coordinate multidisciplinary approaches to evaluate and improve these proposals.
 ### Help us improve this website!
 
 Did we miss a resource, a paper, a dataset, or some other cool tools? Let us
-know by [contacting us](mailto:yohan@beugin.org) or filling an issue/PR on the [GitHub
+know by [contacting us](mailto:yohan@beugin.org) or filing an issue/PR on the [GitHub
 repository](https://github.com/privacysandstorm/privacysandstorm.github.io).
 
 <--->
@@ -64,7 +64,7 @@ resources, if you have any suggestion or feedback: [let us know](mailto:yohan@be
 
 <--->
 
-### Join and engage with others on the Slack Workspace
+### Join and engage with others on the Slack Workspace.
 
 Here is the [Slack
 invite](https://join.slack.com/t/privacysandstorm/shared_invite/zt-2lg4ypm6d-PL6fhihCrRE19sxJEBgJNA),

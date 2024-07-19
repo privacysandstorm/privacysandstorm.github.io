@@ -59,7 +59,7 @@ repository](https://github.com/privacysandstorm/privacysandstorm.github.io).
 <--->
 
 ### Any suggestion or idea?
-This is a community-based effort, and are gathering little by little all sort of
+This is a community-based effort, and we are gathering little by little all sort of
 resources, if you have any suggestion or feedback: [let us know](mailto:yohan@beugin.org).
 
 <--->
@@ -68,6 +68,6 @@ resources, if you have any suggestion or feedback: [let us know](mailto:yohan@be
 
 Here is the [Slack
 invite](https://join.slack.com/t/privacysandstorm/shared_invite/zt-2lg4ypm6d-PL6fhihCrRE19sxJEBgJNA),
-please use your real name and state your corresponding affiliation (if any).
+please use your real name and state your affiliation (if any) on your profile.
 
 {{< /columns >}}

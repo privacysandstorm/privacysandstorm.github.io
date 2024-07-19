@@ -1,0 +1,10 @@
+---
+more:
+  - name: Slack Invite
+    ref: "https://join.slack.com/t/privacysandstorm/shared_invite/zt-2lg4ypm6d-PL6fhihCrRE19sxJEBgJNA"
+    icon: "gdoc_link"
+    external: true
+  - name: GitHub Organization
+    ref: https://github.com/privacysandstorm/
+    icon: gdoc_github
+    external: true

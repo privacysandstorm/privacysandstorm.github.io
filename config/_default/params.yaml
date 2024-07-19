@@ -1,0 +1,20 @@
+---
+description: >
+  Privacy Sandstorm is a research portal that gathers resources about the Privacy
+  Sandbox from Google and gives broader visibility to research findings in that space.
+images:
+  - "privacy-sandstorm-logo-color.svg"
+
+geekdocToC: 3
+geekdocTagsToMenu: true
+geekdocLogo: "privacy-sandstorm-logo-color.svg"
+
+geekdocRepo: https://github.com/privacysandstorm/privacysandstorm.github.io
+geekdocEditPath: edit/main
+
+geekdocSearch: true
+geekdocSearchShowParent: true
+geekdocSearchShowDescription: true
+
+geekdocImageLazyLoading: true
+geekdocDarkModeDim: true

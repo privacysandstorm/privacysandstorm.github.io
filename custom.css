@@ -1,0 +1,57 @@
+/* Global customization */
+
+:root {
+  --code-max-height: 60rem;
+}
+
+/* Light mode theming */
+:root,
+:root[color-theme="light"] {
+  --header-background: #C5050C;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --header-background: #C5050C;
+  }
+}
+
+/* Dark mode theming */
+:root[color-theme="dark"] {
+  --header-background: #C5050C;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --header-background: #C5050C;
+  }
+}
+
+
+.icon-grid {
+  width: 8rem;
+  height: 8rem;
+  margin: 0.2em;
+  text-align: center;
+  padding: 0.3em;
+}
+
+.icon-grid__line {
+  height: 4rem;
+}
+
+.icon-grid__line .gdoc-icon {
+  width: 3em;
+  height: 3em;
+}
+
+.icon-grid__line--text {
+  font-size: 0.8em;
+}
+
+.big-icon {
+  width: 2rem;
+  height: 2rem;
+  margin-right: 2%;
+  fill: #C5050C;
+}

@@ -1,8 +1,8 @@
 ---
+geekdocAnchor: false
 title: "Acknowledgements"
 # geekdocNav: false
 geekdocAlign: left
-geekdocAnchor: false
 weight: 20
 ---
 

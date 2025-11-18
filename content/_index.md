@@ -1,17 +1,17 @@
 ---
+geekdocAnchor: false
 title: 'Privacy Sandstorm'
 geekdocNav: true
 geekdocAlign: left
-geekdocAnchor: false
 ---
-# A Research Portal about Privacy and Advertising Proposals
+## Research Portal on Web Security, Privacy, and Advertising Proposals
 {{< columns size="small" >}}
 <p style="text-align:center">
 <img src="logos/privacy-sandstorm-logo-color.svg" />
 </p>
 
 <--->
-**Privacy Sandstorm** is a research portal that gathers resources about the [Privacy Sandbox](/proposals/privacy-sandbox) initiative from Google as well as [other proposals](/proposals/other) related to online advertising and privacy. Our main objectives are to:
+**Privacy Sandstorm** is a research portal that gathers resources about the [Privacy Sandbox](/privacy-sandbox) initiative from Google as well as [other proposals](/other) related to online security, privacy, and advertising. Our main objectives are to:
 1. Give broader visibility to the findings from the research community in that space.
 2. Coordinate multidisciplinary approaches to evaluate and improve these proposals.
 
@@ -33,23 +33,23 @@ This community-based effort was launched after the [HotPETs 2024 talk](/about/ho
 
 
 {{< hint type="important" title="News & Updates" >}}
-- **November 2025**: We updated this research portal with new resources.
-- **October 2025**: Google [officially announced](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/) the deprecation of (most of) the Privacy Sandbox APIs for the Web and Android.
-- **June 2025**: We systematized developments in web tracking and identify open problems in the field in [this work](https://arxiv.org/abs/2506.14057).
+- **November 2025**: We updated this research portal with several new resources, check them out!
+- **October 2025**: Google [officially announced](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/) the deprecation of (most of) the Privacy Sandbox APIs.
+- **June 2025**: We systematized developments and identify open problems in web tracking in [this SoK](https://arxiv.org/abs/2506.14057).
 - **April 2025**: Google [retracted](https://privacysandbox.com/news/privacy-sandbox-next-steps/) that Chrome users would be prompted to make an informed choice about third-party cookies.
-- **Summer & Fall 2024**: We added [instrumentation](/datasets-software/http-archive) and [Topics classification](https://har.fyi/reference/functions/get_host_categories) to the HTTP Archive, and collaborated on the 2024 Web Almanac [Cookies](https://almanac.httparchive.org/en/2024/cookies) and [Privacy](https://almanac.httparchive.org/en/2024/privacy) chapters.
-- **July 2024**: Google announced reversing course on third-party cookies deprecation in [this post](https://privacysandbox.com/news/privacy-sandbox-update/).
+- **Fall 2024**: We added [instrumentation](/datasets-software/http-archive) and [Topics classification](https://har.fyi/reference/functions/get_host_categories) to the HTTP Archive, and collaborated on the 2024 Web Almanac [Cookies](https://almanac.httparchive.org/en/2024/cookies) and [Privacy](https://almanac.httparchive.org/en/2024/privacy) chapters.
+- **July 2024**: Google [announced](https://privacysandbox.com/news/privacy-sandbox-update/) reversing course on third-party cookies deprecation.
 - **July 2024**: The Privacy Sandstorm website and Slack workspace were made public for [this HotPETs 2024 talk](/about/hotpets2024).
 {{< /hint >}}
 
 ## Resources
 {{< columns >}}
 ### Proposals & Research Findings
-Refer to our [overview](/proposals) of proposals and analyses. For more details, see each API specific page, like the [Topics API](/proposals/privacy-sandbox/topics).
+Check out the resources we aggregated about the [Privacy Sandbox](/privacy-sandbox) and [other](/other) proposals, like on the [Topics API](/privacy-sandbox/topics).
 
 <--->
 ### Datasets & Software
-Check out the list of different [datasets and software](datasets-software/), something may be helpful to your own research!
+Refer to the list of different [datasets and software](/tags/Datasets-Software/), something may be helpful to your own research!
 
 <--->
 ### Slack Workspace
@@ -59,5 +59,5 @@ Use this [Slack invite](https://join.slack.com/t/privacysandstorm/shared_invite/
 
 ## Help us improve this website!
 
-Did we miss a paper, tool, dataset, or do you have any suggestion? Let us know by filing an  [issue or pull request](https://github.com/privacysandstorm/privacysandstorm.github.io) or by [contacting us](mailto:yohan@beugin.org).
+Did we miss a paper, tool, dataset, or do you have any suggestion? Let us know by filing an [issue or pull request](https://github.com/privacysandstorm/privacysandstorm.github.io) or by [contacting us](mailto:yohan@beugin.org), this is a community-based effort!
 

@@ -1,8 +1,7 @@
 ---
-title: "HotPETS 2024 Talk"
-# geekdocNav: false
-geekdocAlign: left
 geekdocAnchor: false
+title: "HotPETS 2024 Talk"
+geekdocAlign: left
 weight: 10
 ---
 

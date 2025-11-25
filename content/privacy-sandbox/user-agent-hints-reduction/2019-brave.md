@@ -1,7 +1,7 @@
 ---
 geekdocAnchor: false
 title: Brave 2019 Analysis
-weight: 10
+weight: 1
 ---
 
 **Title:** [Brave’s Concerns with the Client-Hints Proposal](https://brave.com/web-standards-at-brave/1-client-hints/)

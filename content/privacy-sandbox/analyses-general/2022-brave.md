@@ -1,7 +1,7 @@
 ---
 geekdocAnchor: false
 title: Brave 2022 Analysis
-weight: 3
+weight: 20
 ---
 
 **Title:** [Privacy And Competition Concerns with Google’s Privacy Sandbox](https://brave.com/web-standards-at-brave/6-privacy-sandbox-concerns/)

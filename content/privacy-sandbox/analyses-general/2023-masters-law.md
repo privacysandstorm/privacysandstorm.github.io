@@ -1,6 +1,6 @@
 ---
 geekdocAnchor: false
-title: Masters Law 2023 Dissertation
+title: Masters Law 2023
 weight: 31
 ---
 

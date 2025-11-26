@@ -19,13 +19,15 @@ This community-based effort was launched after the [HotPETs 2024 talk](/about/ho
 
 <p style="text-align:center">
 
-{{< button href="https://yohan.beugin.org/files/slides/HotPETS_2024.pdf" class="color-button" size="regular" >}}<img src='icons/slides.svg' style='height:1.25rem;'> Slides{{< /button >}}
+<!-- {{< button href="pdf/privacysandstorm-report.pdf" class="color-button" size="regular" >}}<img src='/icons/pdf.svg' style='height:1.25rem;'> Technical Report{{< /button >}} -->
 
-{{< button href="https://privacysandstorm.github.io/" class="color-button" size="regular" >}}<img src='icons/website.svg' style='height:1.25rem;'> Website{{< /button >}}
+{{< button href="https://yohan.beugin.org/files/slides/HotPETS_2024.pdf" class="color-button" size="regular" >}}<img src='/icons/slides.svg' style='height:1.25rem;'> Slides{{< /button >}}
 
-{{< button href="https://github.com/privacysandstorm" class="color-button" size="regular" >}}<img src='icons/github.svg' style='height:1.25rem;'> GitHub{{< /button >}}
+{{< button href="https://privacysandstorm.github.io/" class="color-button" size="regular" >}}<img src='/icons/website.svg' style='height:1.25rem;'> Website{{< /button >}}
 
-{{< button href="https://join.slack.com/t/privacysandstorm/shared_invite/zt-2lg4ypm6d-PL6fhihCrRE19sxJEBgJNA" class="color-button" size="regular" >}}<img src='icons/slack.svg' style='height:1.25rem;'> Slack{{< /button >}}
+{{< button href="https://github.com/privacysandstorm" class="color-button" size="regular" >}}<img src='/icons/github.svg' style='height:1.25rem;'> GitHub{{< /button >}}
+
+{{< button href="https://join.slack.com/t/privacysandstorm/shared_invite/zt-2lg4ypm6d-PL6fhihCrRE19sxJEBgJNA" class="color-button" size="regular" >}}<img src='/icons/slack.svg' style='height:1.25rem;'> Slack{{< /button >}}
 
 </p>
 

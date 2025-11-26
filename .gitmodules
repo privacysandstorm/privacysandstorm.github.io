@@ -1,0 +1,3 @@
+[submodule "pdf-report/typst-acmart-popets"]
+	path = pdf-report/typst-acmart-popets
+	url = ../../yohhaan/typst-acmart-popets

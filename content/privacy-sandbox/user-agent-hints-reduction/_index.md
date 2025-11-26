@@ -6,7 +6,7 @@ weight: 100
 ---
 
 {{< hint type=warning >}}
-This API is being deprecated.
+This API (User-Agent Client Hints) is being deprecated.
 {{< /hint >}}
 
 ## Overview

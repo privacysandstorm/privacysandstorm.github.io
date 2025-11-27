@@ -1,7 +1,7 @@
 ---
 geekdocAnchor: false
 title: Brave 2021 Analysis
-weight: 10
+weight: 12
 ---
 
 **Title:** [Why Brave Disables FLoC ](https://brave.com/blog/why-brave-disables-floc/)

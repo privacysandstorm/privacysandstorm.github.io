@@ -1,7 +1,7 @@
 ---
 geekdocAnchor: false
 title: Preprint 2022
-weight: 30
+weight: 20
 ---
 
 **Title:** [A complementary utility and privacy trade-off evaluation of Google's FloC API](https://inria.hal.science/hal-03953308/)

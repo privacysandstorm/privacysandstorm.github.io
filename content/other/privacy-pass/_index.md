@@ -6,7 +6,7 @@ weight: 100
 ---
 
 {{< hint type=tip >}}
-Privacy Pass is available as a browser extension, has been implemented by Cloudflare, Apple, and others, and is an official IETF standard ([RFC 9576](https://datatracker.ietf.org/doc/rfc9576/), [RFC 9577](https://datatracker.ietf.org/doc/rfc9577/), [RFC 9578](https://datatracker.ietf.org/doc/rfc9578/))
+Privacy Pass is available as a browser extension, has been implemented by Cloudflare, Apple, and others, and is an official IETF standard ([RFC 9576](https://datatracker.ietf.org/doc/rfc9576/), [RFC 9577](https://datatracker.ietf.org/doc/rfc9577/), [RFC 9578](https://datatracker.ietf.org/doc/rfc9578/)).
 {{< /hint >}}
 
 

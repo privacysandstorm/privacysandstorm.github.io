@@ -16,6 +16,4 @@ This API is deprecated (the experimentation was removed from Chrome in February 
 
 ## Analyses
 
-https://github.com/mozilla/standards-positions/issues/29#issuecomment-495122302
-
 {{< toc-tree >}}

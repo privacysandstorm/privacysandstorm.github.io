@@ -1,7 +1,7 @@
 ---
 geekdocAnchor: false
 title: Brave 2020 Analysis
-weight: 10
+weight: 2
 ---
 
 **Title:** [WebBundles Harmful to Content Blocking, Security Tools, and the Open Web ](https://brave.com/web-standards-at-brave/3-web-bundles/)

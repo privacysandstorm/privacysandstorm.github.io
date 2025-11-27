@@ -24,7 +24,8 @@ The tokens are securely stored in the user's browser and can be used elsewhere t
 - **API calls:**
   - Check if trust token exists: `document.hasPrivateToken()`
   - Check if redemption record exists: `document.hasRedemptionRecord()`
-  - Issuance and redemption can be performed with Fetch and XHR requests and by embedding iframes.
+  -   - HTTP headers: `Sec-Private-State-Token`, `Sec-Private-State-Token-Lifetime`, `Sec-Private-State-Token-Version`, `Sec-Redemption-Record`
+  - Issuance and redemption can be performed with Fetch and XHR requests and by embedding iframes with the `privateToken` attribute.
   - Additionally, the mechanisms include multiple new “Sec-” HTTP headers that the browser includes automatically in outgoing network requests.
   - The issuance and redemption server needs to set up additional encryption and guarantee mechanisms to ensure that tokens are in compliance with the mechanism requirements.
 - [Documentation](https://developers.google.com/privacy-sandbox/protections/private-state-tokens)

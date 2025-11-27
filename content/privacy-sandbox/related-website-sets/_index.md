@@ -11,7 +11,7 @@ This API is being deprecated, see the [official announcement](https://privacysan
 
 ## Overview
 
-Related Website Sets (RWS) is designed to minimize disruptions to specific user-facing features once Chrome starts limiting access to third-party cookies by default. The goal is to allow users to browse the web with minimal disruption while still upholding the privacy goals of the Privacy Sandbox.
+Related Website Sets (RWS, previously named First Party Sets) is designed to minimize disruptions to specific user-facing features once Chrome starts limiting access to third-party cookies by default. The goal is to allow users to browse the web with minimal disruption while still upholding the privacy goals of the Privacy Sandbox.
 Specifically, RWS is a way for a company to declare relationships among sites, so that browsers allow limited third-party cookie access for specific purposes. Chrome will use these declared relationships to decide when to allow or deny a site access to their cookies when in a third-party context. At a high level, an RWS is a collection of domains, for which there is a single "set primary" and potentially multiple "set members."
 
 ## How does it work?

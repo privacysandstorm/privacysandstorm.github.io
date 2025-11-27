@@ -28,9 +28,15 @@ In practice, the latest taxonomy is composed of 469 topics that are each associa
 When an advertiser makes a call to the Topics API, a maximum of 3 topics (1 for each of the last 3 weeks) are returned; 95% of the time a real topic is picked from the user’s top 5 for that week, in the remaining 5%, a noisy one is randomly drawn from the taxonomy. Finally, a witness requirement in Topics enforces that a real topic is returned to an API caller only if they were embedded on a website of the same topic that was also visited by the user during one of the past 3 weeks.
 
 
-- **API call:** `document.browsingTopics()` (+ also through HTTP Headers)
+- **API:**
+  - `document.browsingTopics()` (can be passed optional argument `{skipObservation:true}` to not participate in topics observation)(+ also through HTTP Headers) returns promise to an array of up to 3 topics.
+  - `Sec-Browsing-Topics` header of a `fetch()` request, `Observe-Browsing-Topics: ?1` header should be sent in the response to the request to participate in topics observation.
+  - Opt-out for websites:
+    - `Permissions-Policy: browsing-topics=()` on each page Topics API needs to be blocked
+    - `Permissions-Policy: browsing-topics=(self "https://example.com")` to control who can call the API
 - [Documentation (Web)](https://developers.google.com/privacy-sandbox/relevance/topics/developer-guide)
 - [Explainer (Web)](https://github.com/patcg-individual-drafts/topics)
+- See `chrome://topics-internals` to see info about model version, taxonomy used, etc.
 
 **On Android:** Similarly to the Topics API for the web classifying users’ web behaviors into categories, the Topics API for Android monitors the applications being opened and used every week and classify users’ behaviors into topics of interest. Then, Topics reports some of each user’s top topics to third party SDKs that are embedded into other applications when they call the API.
 

@@ -18,10 +18,22 @@ The objective of the Protected Audience API (previously named FLEDGE) is to enab
 When users visit websites and interact with specific products for instance, embedded advertisers on that site can record this by requesting browsers to add these users to a specific interest group that contains ads for the corresponding or similar products. Later, when the user lands on a website with an ad space, their browser executes locally the ad auction logic for all interest groups they belong to and display the ad for the winning bid. The advertiser with the winning bid would thus be able to show ads targeted based on users' browsing behavior.
 
 - **API calls:**
-  - Creating an interest group: `navigator.joinAdInterestGroup()`
-  - Leaving an interest group: `navigator.leaveAdInterestGroup()`
-  - Running an ad auction: `navigator.runAdAuction()`
-  - And other (see documentation)
+  - Interest Groups:
+    - `navigator.joinAdInterestGroup()`
+    - `navigator.leaveAdInterestGroup()`
+    - `navigator.clearOriginJoinedAdInterestGroups()`
+  - Auctions:
+    - `navigator.runAdAuction()`
+    - `navigator.adAuctionComponents()`
+    - `navigator.createAuctionNonce()`
+  - Several new HTTP headers as well:
+    - `Ad-Auction-Allowed`
+    - `Ad-Auction-Only`
+    - `Ad-Auction-Signals`
+    - `Ad-Auction-Additional-Bid`
+    - `X-fledge-bidding-signals-format-version`
+    - `Data-Version`
+    - `Sec-Ad-Auction-Fetch`
 - [Documentation (Web)](https://developers.google.com/privacy-sandbox/relevance/protected-audience)
 - [Explainer](https://github.com/WICG/turtledove/blob/main/FLEDGE.md)
 - [Documentation (Android)](https://developers.google.com/privacy-sandbox/relevance/protected-audience)

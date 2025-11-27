@@ -6,7 +6,7 @@ weight: 100
 ---
 
 {{< hint type=warning >}}
-This API is (being) deprecated.
+This API is being deprecated, see the [official announcement](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/) from Google.
 {{< /hint >}}
 
 ## Overview

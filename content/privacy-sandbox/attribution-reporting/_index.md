@@ -6,7 +6,7 @@ weight: 100
 ---
 
 {{< hint type=warning >}}
-This API is being deprecated, although Google said they would continue work on a similar proposal through the web standards process, see the [official announcement](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/) from Google.
+This API is being deprecated, although Google said they would continue work on a similar proposal through the web standards process, see the [official announcement](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/) and this [status overview](https://privacysandbox.google.com/overview/status) from Google.
 {{< /hint >}}
 
 ## Overview

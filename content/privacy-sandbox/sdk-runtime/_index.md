@@ -1,6 +1,6 @@
 ---
 geekdocAnchor: false
-title: Title
+title: SDK Runtime
 geekdocCollapseSection: true
 weight: 100
 ---
@@ -11,22 +11,9 @@ This API is being deprecated, see the [official announcement](https://privacysan
 
 ## Overview
 
+The SDK (Software Development Kit) Runtime aimed to separate and isolate third-party code in Android applications from the main app's code to limit tracking.
 
-
-## How does it work?
-
-
-
-- **API call:** ``
-- [Documentation]()
-- [Explainer]()
-
-{{< hint type=important title="Remarks">}}
-From <a href="">this</a> paper:
-
-*``Quote''*
-{{< /hint >}}
-
+- [Documentation (Android)](https://developers.google.com/privacy-sandbox/relevance/sdk-runtime)
 
 ## Analyses
 

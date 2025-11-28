@@ -6,7 +6,7 @@ weight: 100
 ---
 
 {{< hint type=warning >}}
-This API is being deprecated, see the [official announcement](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/) from Google.
+This API is still being maintained by Google in Chrome, even after the [deprecation announcement](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/) of most other Privacy Sandbox APIs.
 {{< /hint >}}
 
 ## Overview

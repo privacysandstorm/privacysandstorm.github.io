@@ -11,22 +11,10 @@ This API is deprecated.
 
 ## Overview
 
+The Privacy Budget proposal aimed to reduce the amount of identifying information that a site or party would have been able to obtain on users in order to prevent them from being uniquely re-identifiable.
 
-
-<!-- ## How does it work?
-
-
-
-- **API call:** ``
-- [Documentation]()
+- [Documentation](https://privacysandbox.google.com/protections/privacy-budget)
 - [Explainer](https://github.com/mikewest/privacy-budget)
-
-{{< hint type=important title="Remarks">}}
-From <a href="">this</a> paper:
-
-*``Quote''*
-{{< /hint >}} -->
-
 
 ## Analyses
 

@@ -1,6 +1,6 @@
 ---
 geekdocAnchor: false
-title: Title
+title: IP Protection
 geekdocCollapseSection: true
 weight: 100
 ---
@@ -11,22 +11,11 @@ This API is being deprecated, see the [official announcement](https://privacysan
 
 ## Overview
 
+IP Protection is a proposal to relay requests originating from third-party context through a proxy to hide the user's IP address.
+Google was envisioning deploying it only in Chrome's Incognito mode before backing out altogether.
 
-
-## How does it work?
-
-
-
-- **API call:** ``
-- [Documentation]()
-- [Explainer]()
-
-{{< hint type=important title="Remarks">}}
-From <a href="">this</a> paper:
-
-*``Quote''*
-{{< /hint >}}
-
+- [Documentation](https://privacysandbox.google.com/protections/ip-protection)
+- [Explainer](https://github.com/GoogleChrome/ip-protection)
 
 ## Analyses
 

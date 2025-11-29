@@ -1,5 +1,5 @@
 public/
 .hugo_build.lock
-pdf_report/from-md/
-pdf_report/privacy-sandbox.typ
-pdf_report/other-proposals.typ
+pdf-report/from-md/
+pdf-report/privacy-sandbox.typ
+pdf-report/other-proposals.typ

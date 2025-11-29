@@ -3,11 +3,13 @@ geekdocAnchor: false
 title: Title
 geekdocCollapseSection: true
 weight: 100
+customCites:
+ - bibkey
 ---
 
 {{< hint type=warning >}}
 This API is being deprecated, see the [official announcement](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/) and this [status overview](https://privacysandbox.google.com/overview/status) from Google.
-{{< /hint >}}
+{{</hint>}}
 
 ## Overview
 
@@ -21,11 +23,11 @@ This API is being deprecated, see the [official announcement](https://privacysan
 - [Documentation]()
 - [Explainer]()
 
-{{< hint type=important title="Remarks">}}
+{{< hint type=important title="Remarks" >}}
 From <a href="">this</a> paper:
 
 *``Quote''*
-{{< /hint >}}
+{{</hint>}}
 
 
 ## Analyses

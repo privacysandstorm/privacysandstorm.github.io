@@ -3,11 +3,13 @@ geekdocAnchor: false
 title: Attestation/Enrollment
 geekdocCollapseSection: true
 weight: 100
+customCites:
+  - beuginWebAlmanacCookies2024
 ---
 
 {{< hint type=warning >}}
-Similar to the APIs, the attestation mechanism is likely being deprecated with, see the [official announcement](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/) from Google.
-{{< /hint >}}
+Similar to the APIs, the attestation mechanism is likely being deprecated, see the [official announcement](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/) from Google.
+{{</hint>}}
 
 ## Overview
 

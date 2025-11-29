@@ -3,11 +3,16 @@ geekdocAnchor: false
 title: Attribution Reporting API
 geekdocCollapseSection: true
 weight: 100
+customCites:
+ - langPrivacySandboxAggregation2024
+ - aksuSummaryReportsOptimization2024
+ - delaneyDifferentiallyPrivateAd2024
+ - xiaoClickCompromiseOnline2025
 ---
 
 {{< hint type=warning >}}
 This API is being deprecated, although Google said they would continue work on a similar proposal through the web standards process, see the [official announcement](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/) and this [status overview](https://privacysandbox.google.com/overview/status) from Google.
-{{< /hint >}}
+{{</hint>}}
 
 ## Overview
 

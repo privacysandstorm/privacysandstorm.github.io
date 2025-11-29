@@ -14,7 +14,7 @@ weight: 3
 - **Web Almanac:**
   - **Chapters:** [Cookies 2024](https://almanac.httparchive.org/en/2024/cookies) & [Privacy 2024 ](https://almanac.httparchive.org/en/2024/privacy) chapters
   - **Instrumentation:** see pull requests [129](https://github.com/HTTPArchive/custom-metrics/pull/129) and [131](https://github.com/HTTPArchive/custom-metrics/pull/131)
-{{< /hint >}}
+{{</hint>}}
 
 Over the Summer and Fall of 2024, we collaborated with the [HTTP Archive](https://httparchive.org/), as part of the [Web Almanac](https://almanac.httparchive.org) project, and contributed by adding some instrumentation to their monthly crawl to detect the presence of the Privacy Sandbox APIs on visited websites. We also classified all the hostnames of the websites ever visited by the project with the latest version of the Topics API at the time.
 

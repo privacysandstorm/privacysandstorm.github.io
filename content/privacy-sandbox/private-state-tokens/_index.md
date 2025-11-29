@@ -3,11 +3,13 @@ geekdocAnchor: false
 title: Privacy State Tokens
 geekdocCollapseSection: true
 weight: 100
+customCites:
+ - aliNavigatingMurkyWaters2023
 ---
 
-{{< hint type=important title="Remarks">}}
+{{< hint type=important >}}
 This API is still being maintained by Google in Chrome, even after the [deprecation announcement](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/) of most other Privacy Sandbox APIs.
-{{< /hint >}}
+{{</hint>}}
 
 ## Overview
 
@@ -24,9 +26,9 @@ The tokens are securely stored in the user's browser and can be used elsewhere t
 - **API calls:**
   - Check if trust token exists: `document.hasPrivateToken()`
   - Check if redemption record exists: `document.hasRedemptionRecord()`
-  -   - HTTP headers: `Sec-Private-State-Token`, `Sec-Private-State-Token-Lifetime`, `Sec-Private-State-Token-Version`, `Sec-Redemption-Record`
-  - Issuance and redemption can be performed with Fetch and XHR requests and by embedding iframes with the `privateToken` attribute.
-  - Additionally, the mechanisms include multiple new “Sec-” HTTP headers that the browser includes automatically in outgoing network requests.
+  - HTTP headers: `Sec-Private-State-Token`, `Sec-Private-State-Token-Lifetime`, `Sec-Private-State-Token-Version`, `Sec-Redemption-Record`
+  - Issuance and redemption can be performed with Fetch requests and by embedding iframes with the `privateToken` attribute.
+  - Additionally, the mechanism includes multiple new “Sec-” HTTP headers that the browser includes automatically in outgoing network requests.
   - The issuance and redemption server needs to set up additional encryption and guarantee mechanisms to ensure that tokens are in compliance with the mechanism requirements.
 - [Documentation](https://developers.google.com/privacy-sandbox/protections/private-state-tokens)
 - [Explainer](https://github.com/WICG/trust-token-api)

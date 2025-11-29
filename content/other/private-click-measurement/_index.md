@@ -3,6 +3,8 @@ geekdocAnchor: false
 title: Private Click Measurement
 geekdocCollapseSection: true
 weight: 100
+customCites:
+ - thomsonAnalysisApplesPrivate2022
 ---
 
 - **Proposed by:** Apple

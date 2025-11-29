@@ -7,7 +7,7 @@ weight: 100
 
 {{< hint type=tip >}}
 This API is still being maintained by Google in Chrome, even after the [deprecation announcement](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/) of most other Privacy Sandbox APIs.
-{{< /hint >}}
+{{</hint>}}
 
 ## Overview
 
@@ -18,6 +18,6 @@ Like other major web browsers such as Firefox and Safari, Chrome is preventing c
 - [Network State Partition Explainer](https://github.com/MattMenke2/Explainer---Partition-Network-State)
 
 
-## Analyses
+<!-- ## Analyses
 
-{{< toc-tree >}}
+{{< toc-tree >}} -->

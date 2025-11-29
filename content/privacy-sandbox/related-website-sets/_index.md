@@ -3,11 +3,13 @@ geekdocAnchor: false
 title: Related Website Sets
 geekdocCollapseSection: true
 weight: 100
+customCites:
+  - beuginWebAlmanacCookies2024
 ---
 
 {{< hint type=warning >}}
 This API is being deprecated, see the [official announcement](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/) and this [status overview](https://privacysandbox.google.com/overview/status) from Google.
-{{< /hint >}}
+{{</hint>}}
 
 ## Overview
 
@@ -17,8 +19,8 @@ Specifically, RWS is a way for a company to declare relationships among sites, s
 ## How does it work?
 
 {{< hint type=tip >}}
-Check out our `.well-known` [crawler](https://github.com/privacysandstorm/well-known-crawler) and [analysis](https://github.com/privacysandstorm/well-known-crawler-analysis) code, more details also on [this post](/about/posts/2024-07-well-known-crawler).
-{{< /hint >}}
+Check out our `.well-known` [crawler](https://github.com/privacysandstorm/well-known-crawler) and [analysis](https://github.com/privacysandstorm/well-known-crawler-analysis) code, more details also on [this post](https://privacysandstorm.github.io/about/posts/2024-07-well-known-crawler).
+{{</hint>}}
 
 A related website set consists of one primary site and up to five associated sites. To use a set, its JSON must be added to the `related_website_sets.JSON` file available on the RWS GitHub repository, which Chrome then consumes to get the list of sets to apply RWS behavior to. `.well-known` files.
 Each site in the set must also serve a `.well-known` file at `/.well-known/related-website-set.json`, which serves to verify the set structure and the relationship between the sites in the set. The primary site's `.well-known` file must explicitly list out the full set structure.

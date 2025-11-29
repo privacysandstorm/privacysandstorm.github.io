@@ -3,6 +3,8 @@ geekdocAnchor: false
 title: Interoperable Private Attribution
 geekdocCollapseSection: true
 weight: 100
+customCites:
+ - caseInteroperablePrivateAttribution2023
 ---
 
 - **Proposed by:** Erik Taubeneck (Meta), Ben Savage (Meta), Martin Thomson (Mozilla)

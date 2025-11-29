@@ -3,11 +3,13 @@ geekdocAnchor: false
 title: CHIPS
 geekdocCollapseSection: true
 weight: 100
+customCites:
+ - beuginWebAlmanacCookies2024
 ---
 
-{{< hint type=important title="Remarks">}}
+{{< hint type=important >}}
 This API is still being maintained by Google in Chrome, even after the [deprecation announcement](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/) of most other Privacy Sandbox APIs.
-{{< /hint >}}
+{{</hint>}}
 
 ## Overview
 

@@ -7,7 +7,7 @@ weight: 100
 
 {{< hint type=warning >}}
 This API is being deprecated, see the [official announcement](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/) and this [status overview](https://privacysandbox.google.com/overview/status) from Google.
-{{< /hint >}}
+{{</hint>}}
 
 ## Overview
 
@@ -16,6 +16,6 @@ The Private Aggregation API is similar to the Attribution Reporting API, but is 
 - [Documentation (Android)](https://developers.google.com/privacy-sandbox/relevance/private-aggregation)
 - [Explainer](https://github.com/patcg-individual-drafts/private-aggregation-api)
 
-## Analyses
+<!-- ## Analyses
 
-{{< toc-tree >}}
+{{< toc-tree >}} -->

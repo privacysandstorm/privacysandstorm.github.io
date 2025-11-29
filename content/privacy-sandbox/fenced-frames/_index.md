@@ -7,7 +7,7 @@ weight: 100
 
 {{< hint type=warning >}}
 This API is still being maintained by Google in Chrome, even after the [deprecation announcement](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/) of most other Privacy Sandbox APIs.
-{{< /hint >}}
+{{</hint>}}
 
 ## Overview
 Fenced frames are similar to iframes, i.e., embedded frames with HTML content, with the distinction that they enforce a strict boundary between the embedded content and the embedding page that can not access each other context's DOM. These fenced frames are intended to be used by other Privacy Sandbox APIs, such as the Protected Audience or Shared Storage APIs to prevent for instance publishers to learn any information about an ad auction winner and the ad displayed to users.
@@ -26,6 +26,6 @@ Compatible web browsers serve fenced frames and manage the boundary with the emb
 - [Documentation](https://developers.google.com/privacy-sandbox/relevance/fenced-frame)
 - [Explainer](https://github.com/WICG/fenced-frame/blob/master/explainer/README.md)
 
-## Analyses
+<!-- ## Analyses
 
-{{< toc-tree >}}
+{{< toc-tree >}} -->

@@ -3,11 +3,14 @@ geekdocAnchor: false
 title: Topics API
 geekdocCollapseSection: true
 weight: 100
+customCites:
+  - beuginPublicReproducibleAssessmentTopics2024
+  - beuginInterestDisclosingMechanismsAdvertising2024
 ---
 
 {{< hint type=warning >}}
 This API is being deprecated, see the [official announcement](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/) and this [status overview](https://privacysandbox.google.com/overview/status) from Google.
-{{< /hint >}}
+{{</hint>}}
 
 ## Overview
 
@@ -18,8 +21,8 @@ This API is being deprecated, see the [official announcement](https://privacysan
 ## How does it work?
 
 {{< hint type=tip >}}
-Check out our exact reimplementation of the [Topics Classifier (Web + Android)](https://github.com/yohhaan/topics_classifier), more details also on [this post](/about/posts/2024-02-topics-classifier).
-{{< /hint >}}
+Check out our exact reimplementation of the [Topics Classifier (Web + Android)](https://github.com/yohhaan/topics_classifier), more details also on [this post](https://privacysandstorm.github.io/about/posts/2024-02-topics-classifier).
+{{</hint>}}
 
 **On the Web:** The Topics API works by having the web browser classify the websites visited by users into categories of interest. Advertisers who are embedded on websites can observe some of the recent top users’ topics and use that information to perform an ad auction.
 
@@ -54,7 +57,7 @@ When an advertiser makes a call to the Topics API, a maximum of 3 topics (1 for 
 **On Android:** The Topics API for Android appeared to be the Web proposal directly taken and adapted to Android applications: i.e., web domain names replaced by application identifiers. Thus, the Android proposal likely inherits similar limitations than the Topics API for the Web, but it is also unclear if and how the specifics of the Android ecosystem might be different and impact the API guarantees and users' privacy. For instance:
 - Would users browsing the web on Chrome on their Android devices have both "Web" and "Android" topics profiles and would applications (like Chrome) be able to access both? Could profiles be linked?
 - Advertisers also need to provide a public key used to encrypt the topics returned to them on Android, while the Web implementation does not require that. The reasoning behind this extra encryption step on Android is a bit unclear: is the concern that other SDKs would observe the results of API calls triggered by and aimed for a different APK?
-{{< /hint >}}
+{{</hint>}}
 
 
 ## Analyses

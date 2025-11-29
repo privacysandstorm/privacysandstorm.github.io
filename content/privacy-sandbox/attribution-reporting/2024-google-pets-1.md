@@ -4,7 +4,7 @@ title: Google PETS 2024 Paper 1
 weight: 40
 ---
 
-**Title:** [Summary Reports Optimization in the Privacy Sandbox Attribution Reporting API](https://petsymposium.org/popets/2024/popets-2024-0132.php)
+**Title:** [Summary Reports Optimization in the Privacy Sandbox Attribution Reporting API](https://doi.org/10.56553/popets-2024-0132)
 
 **Authors:** Hidayet Aksu (Google), Badih Ghazi (Google), Pritish Kamath (Google), Ravi Kumar (Google), Pasin Manurangsi (Google), Adam Sealfon (Google), Avinash V. Varadarajan (Google)
 

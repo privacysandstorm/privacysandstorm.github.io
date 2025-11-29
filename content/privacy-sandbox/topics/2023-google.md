@@ -6,7 +6,7 @@ weight: 13
 
 {{< hint type=note >}}
 This paper appeared to have been submitted several times in somewhat slightly different versions to diverse venues in 2023 such as: [SecWeb'23](https://secweb.work/2023.html#program), [SIGMOD'23](https://doi.org/10.1145/3589294), [RegML at NeurIPS'](https://neurips.cc/virtual/2023/80616), we decided to link below to the [arXiv version](https://arxiv.org/abs/2304.07210).
-{{< /hint >}}
+{{</hint>}}
 
 **Title:** [Measuring Re-identification Risk](https://arxiv.org/abs/2304.07210)
 
@@ -19,4 +19,4 @@ This paper appeared to have been submitted several times in somewhat slightly di
 From our <a href="https://doi.org/10.48550/arXiv.2403.19577">SecWeb'24</a> paper:
 
 ``*Google released two privacy analyses of the fingerprinting risk of the Topics API; [a white paper](../2022-google-white-paper/) computing the aggregate information leakage per API call and for two consecutive calls and a second work using a theoretical framework to measure re-identification risk. However, the empirical measurements in both works have been performed on a private dataset, preventing the verification of the claims being made. Similarly, only aggregate and final results are reported, the lack of details across the distribution of users can hide the privacy risks of Topics for specific users as already pointed out [by Thomson](../2023-mozilla/). Additionally, Google’s second analysis assumes and infers from an aggregate statistic that “for every user, samples of top sets [of topics] are independent across time”, while prior web measurement studies have found that users’ interests exhibit some stability over time.*''
-{{< /hint >}}
+{{</hint>}}

@@ -1,8 +1,5 @@
 public/
-resources/gen/
-assets/jsconfig.json
-hugo_stats.json
 .hugo_build.lock
-hugo.exe
-hugo.darwin
-hugo.linux
+pdf_report/from-md/
+pdf_report/privacy-sandbox.typ
+pdf_report/other-proposals.typ

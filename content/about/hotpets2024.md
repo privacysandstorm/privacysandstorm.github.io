@@ -31,4 +31,4 @@ This community-based effort was launched after the following HotPETs 2024 talk:
 {{< button href="https://join.slack.com/t/privacysandstorm/shared_invite/zt-2lg4ypm6d-PL6fhihCrRE19sxJEBgJNA" class="color-button" size="regular" >}}<img src='/icons/slack.svg' style='height:1.25rem;'> Slack{{< /button >}}
 
 </p>
-{{< /hint >}}
+{{</hint>}}

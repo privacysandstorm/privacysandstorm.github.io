@@ -12,7 +12,7 @@ weight: 1
 - **Author:** Yohan Beugin (post also published [on my website](https://yohan.beugin.org/posts/2024_02_topics_api_web_classifier.html))
 - **GitHub repository:** [https://github.com/yohhaan/topics_classifier](https://github.com/yohhaan/topics_classifier)
 
-{{< /hint >}}
+{{</hint>}}
 
 In this post, we discuss our research needs to reimplement the Topics API for the web and so, explain how the classification in Chrome is actually performed by presenting all pre- and post-processing steps used by Google. We also point at a formatting issue that we found along the way that impacts the intended accuracy of the API classification for some domains.
 

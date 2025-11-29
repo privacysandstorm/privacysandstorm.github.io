@@ -11,7 +11,7 @@ weight: 2
 {{< hint type=note >}}
 - **Author:** Yohan Beugin
 - **GitHub repository:** [Crawler](https://github.com/privacysandstorm/well-known-crawler) & [Analysis](https://github.com/privacysandstorm/well-known-crawler-analysis) code
-{{< /hint >}}
+{{</hint>}}
 
 We regularly crawl the Web for the presence of `.well-known` resources and files that were introduced by the following Privacy Sandbox mechanisms:
 

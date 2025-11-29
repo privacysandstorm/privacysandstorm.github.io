@@ -3,11 +3,13 @@ geekdocAnchor: false
 title: Privacy Budget
 geekdocCollapseSection: true
 weight: 100
+customCites:
+ - 
 ---
 
 {{< hint type=warning >}}
 This API is deprecated.
-{{< /hint >}}
+{{</hint>}}
 
 ## Overview
 

@@ -31,15 +31,23 @@
   doi: none,
 )
 
+#show link: set text(fill: blue)
+#show heading: set block(above: 1em)
+
 = Abstract
-// #include "abstract.typ"
+#include "00-abstract.typ"
 
 #acmart-keywords(keywords)
 
-= Introduction
-// #include "apis.typ"
+#include "01-introduction.typ"
 
-= Acknowledgements
+#colbreak()
+#include "privacy-sandbox.typ"
+#colbreak()
+#include "other-proposals.typ"
+#colbreak()
+
+#heading(level: 1, numbering: none)[Acknowledgements]
 #include "from-md/ack.typ"
 
 #bibliography("refs.bib", title: "References", style: "association-for-computing-machinery")

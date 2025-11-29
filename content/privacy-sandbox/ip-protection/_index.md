@@ -7,7 +7,7 @@ weight: 100
 
 {{< hint type=warning >}}
 This API is being deprecated, see the [official announcement](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/) and this [status overview](https://privacysandbox.google.com/overview/status) from Google.
-{{< /hint >}}
+{{</hint>}}
 
 ## Overview
 
@@ -17,6 +17,6 @@ Google was envisioning deploying it only in Chrome's Incognito mode before backi
 - [Documentation](https://privacysandbox.google.com/protections/ip-protection)
 - [Explainer](https://github.com/GoogleChrome/ip-protection)
 
-## Analyses
+<!-- ## Analyses
 
-{{< toc-tree >}}
+{{< toc-tree >}} -->

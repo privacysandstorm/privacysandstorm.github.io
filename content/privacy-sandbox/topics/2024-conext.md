@@ -6,7 +6,7 @@ weight: 23
 
 {{< hint type=note >}}
 A [journal version](https://doi.org/10.1109/TP.2025.3615120) of this work was published in IEEE Transactions on Privacy in 2025.
-{{< /hint >}}
+{{</hint>}}
 
 **Title:** [A First View of Topics API Usage in the Wild](https://dl.acm.org/doi/10.1145/3680121.3697810)
 

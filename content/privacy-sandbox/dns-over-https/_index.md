@@ -3,11 +3,13 @@ geekdocAnchor: false
 title: DNS-over-HTTPS
 geekdocCollapseSection: true
 weight: 100
+customCites:
+ - sahibEncryptingDNSZone2021
 ---
 
 {{< hint type=tip >}}
 This API has been launched and is now a standard: [RFC 8484](https://datatracker.ietf.org/doc/html/rfc8484).
-{{< /hint >}}
+{{</hint>}}
 
 ## Overview
 

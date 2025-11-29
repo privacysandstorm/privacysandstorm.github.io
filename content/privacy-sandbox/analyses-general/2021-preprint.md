@@ -4,7 +4,7 @@ title: Preprint 2021
 weight: 10
 ---
 
-**Title:** [Don't Play in Google's Privacy Sandbox](https://www.eff.org/deeplinks/2019/08/dont-play-googles-privacy-sandbox-1)
+**Title:** [Playing Fair in the Privacy Sandbox: Competition, Privacy and Interoperability Standards](https://dx.doi.org/10.2139/ssrn.3891335)
 
 **Authors:** Mark Nottingham (University of Melbourne)
 

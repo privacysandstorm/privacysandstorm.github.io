@@ -3,11 +3,14 @@ geekdocAnchor: false
 title: Federated Credential Management API
 geekdocCollapseSection: true
 weight: 100
+customCites:
+ - westersSingleSignOnPrivacy2024
+ - vacekIntegraceFedCMAPI2024
 ---
 
-{{< hint type=important title="Remarks">}}
+{{< hint type=important >}}
 This API is still being maintained by Google in Chrome, even after the [deprecation announcement](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/) of most other Privacy Sandbox APIs.
-{{< /hint >}}
+{{</hint>}}
 
 ## Overview
 
@@ -21,7 +24,11 @@ A relying party (RP) can allow users to sign-in using their credentials and acco
 - Providing features to the IdP and RP specific to the user consent provided.
 
 - **API:**
-  - JS: `navigator.credentials.get()`, `navigator.recordFederatedLogin()`, `IdentityCredential.disconnect()`, `navigator.login.setStatus("logged-in"/”logged-out”)`
+  - JS:
+    - `navigator.credentials.get()`
+    - `navigator.recordFederatedLogin()`
+    - `IdentityCredential.disconnect()`
+    - `navigator.login.setStatus("logged-in"/”logged-out”)`
   - HTTP headers: `Sec-FedCM-CSRF`
   - Permissions Policy on iframe: `allow="identity-credentials-get"`
 - [Documentation](https://developers.google.com/privacy-sandbox/3pcd/fedcm-developer-guide)

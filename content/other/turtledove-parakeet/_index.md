@@ -3,6 +3,8 @@ geekdocAnchor: false
 title: TURTLEDOVE/PARAKEET Proposals
 geekdocCollapseSection: true
 weight: 100
+customCites:
+ - iwanczakFutureFrequencyCapping2022
 ---
 
 Chrome created the [original TURTLEDOVE](https://github.com/WICG/turtledove/blob/main/Original-TURTLEDOVE.md) proposal that led to the following series of somewhat related proposals and mechanisms from different actors.

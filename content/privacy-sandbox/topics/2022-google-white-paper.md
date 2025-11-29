@@ -22,4 +22,4 @@ From our <a href="https://doi.org/10.56553/popets-2024-0004">PETS'24</a> paper:
 4. *The noise in the mechanism is very briefly discussed.*
 5. *Only 2 epochs were considered in the empirical evaluation.*''
 
-{{< /hint >}}
+{{</hint>}}

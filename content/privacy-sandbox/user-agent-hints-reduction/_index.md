@@ -3,11 +3,13 @@ geekdocAnchor: false
 title: User-Agent Reduction & User-Agent Client Hints
 geekdocCollapseSection: true
 weight: 100
+customCites:
+ - 
 ---
 
 {{< hint type=warning >}}
 This API is still being maintained by Google in Chrome, even after the [deprecation announcement](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/) of most other Privacy Sandbox APIs.
-{{< /hint >}}
+{{</hint>}}
 
 ## Overview
 

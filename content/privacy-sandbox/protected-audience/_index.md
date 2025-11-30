@@ -4,7 +4,11 @@ title: Protected Audience API (FLEDGE)
 geekdocCollapseSection: true
 weight: 100
 customCites:
- - 
+ - ruminskiFindingsEarlyFledge2022
+ - thomsonProtectedAudiencePrivacy2024
+ - philipsePostThirdPartyCookies2024
+ - longEvaluatingGooglesProtected2024
+ - calderonioFledgingWillContinue2024
 ---
 
 {{< hint type=warning >}}

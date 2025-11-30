@@ -4,6 +4,8 @@ title: Related Website Sets
 geekdocCollapseSection: true
 weight: 100
 customCites:
+  - snyderFirstPartySetsTearing2022
+  - mcquistinFirstLookRelated2024
   - beuginWebAlmanacCookies2024
 ---
 

@@ -4,7 +4,9 @@ title: Privacy Budget
 geekdocCollapseSection: true
 weight: 100
 customCites:
- - 
+ - snyderBraveFingerprintingPrivacy2019
+ - rescorlaTechnicalCommentsPrivacy2021
+ - bacisAssessingWebFingerprinting2024
 ---
 
 {{< hint type=warning >}}

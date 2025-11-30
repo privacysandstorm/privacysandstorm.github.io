@@ -4,7 +4,14 @@ title: FLoC API
 geekdocCollapseSection: true
 weight: 100
 customCites:
- - 
+ - ravichandranEvaluationCohortAlgorithms2020
+ - snyderWhyBraveDisables2021
+ - cyphersGooglesFLoCTerrible2021
+ - epastoClusteringPrivateInterestbased2021
+ - rescorlaTechnicalCommentsFLoC2021
+ - berkePrivacyLimitationsInterestbased2022
+ - kessibiComplementaryUtilityPrivacy2022
+ - turatiLocalitySensitiveHashingDoes2023
 ---
 
 {{< hint type=warning >}}

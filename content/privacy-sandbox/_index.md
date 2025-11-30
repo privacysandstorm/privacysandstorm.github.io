@@ -1,6 +1,6 @@
 ---
 geekdocAnchor: false
-title: Privacy Sandbox
+title: Privacy Sandbox Proposals
 geekdocCollapseSection: false
 weight: 20
 ---

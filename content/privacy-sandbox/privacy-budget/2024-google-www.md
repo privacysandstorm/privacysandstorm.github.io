@@ -6,7 +6,7 @@ weight: 40
 
 **Title:** [Assessing Web Fingerprinting Risk](https://doi.org/10.48550/arXiv.2403.15607)
 
-**Authors:**  Enrico Bacis (Google), Igor Bilogrevic (Google), Róbert István Busa-Fekete (Google), Asanka Herath (Google), Antonio Sartori (Google), Umar Syed (Google)
+**Authors:** Enrico Bacis (Google), Igor Bilogrevic (Google), Róbert István Busa-Fekete (Google), Asanka Herath (Google), Antonio Sartori (Google), Umar Syed (Google)
 
 **Abstract/Summary:** Modern Web APIs allow developers to provide extensively customized experiences for website visitors, but the richness of the device information they provide also make them vulnerable to being abused to construct browser fingerprints, device-specific identifiers that enable covert tracking of users even when cookies are disabled.
 Previous research has established entropy, a measure of information, as the key metric for quantifying fingerprinting risk. However, earlier studies had two major limitations. First, their entropy estimates were based on either a single website or a very small sample of devices. Second, they did not adequately consider correlations among different Web APIs, potentially grossly overestimating their fingerprinting risk.

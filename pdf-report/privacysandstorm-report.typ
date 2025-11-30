@@ -35,24 +35,27 @@
 #show heading: set block(above: 1em)
 
 = Abstract
-#include "00-abstract.typ"
+#include "abstract.typ"
 
 #acmart-keywords(keywords)
 
 #include "01-introduction.typ"
 
-#colbreak()
+// #colbreak()
 #include "privacy-sandbox.typ"
-#colbreak()
+// #colbreak()
 #include "other-proposals.typ"
-#colbreak()
+// #colbreak()
 
 #heading(level: 1, numbering: none)[Acknowledgements]
 #include "from-md/ack.typ"
 
+
 #bibliography("refs.bib", title: "References", style: "association-for-computing-machinery")
 
-#colbreak(weak: true)
-#set heading(numbering: "A.a.a")
 
-= Appendix
+
+// #colbreak(weak: true)
+// #set heading(numbering: "A.a.a")
+
+// = Appendix

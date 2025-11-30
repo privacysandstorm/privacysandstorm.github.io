@@ -4,8 +4,20 @@ title: Topics API
 geekdocCollapseSection: true
 weight: 100
 customCites:
+  - snyderGooglesTopicsAPI2022
+  - epastoMeasuresCrosssiteReidentification2022
+  - vankesterenWebKitStandardsPositions2023
+  - careyMeasuringReidentificationRisk2023
+  - thomsonPrivacyAnalysisGoogles2023
+  - jhaRobustnessTopicsAPI2023
+  - jhaReIdentificationAttacksTopics2024
+  - alvimQuantitativeInformationFlow2023
+  - alvimPrivacyUtilityTradeoffTopics2024
+  - vernaFirstViewTopics2024
+  - vernaUnderstandingTopicsAPI2025
   - beuginPublicReproducibleAssessmentTopics2024
   - beuginInterestDisclosingMechanismsAdvertising2024
+  - dickDifferentiallyPrivateSynthetic2025
 ---
 
 {{< hint type=warning >}}

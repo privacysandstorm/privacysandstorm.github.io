@@ -1,6 +1,6 @@
 ---
 geekdocAnchor: false
-title: Oct 2024 - HTTP Archive
+title: HTTP Archive Contributions
 date: 2024-10-01
 type: posts
 tags:
@@ -20,7 +20,7 @@ Over the Summer and Fall of 2024, we collaborated with the [HTTP Archive](https:
 
 As a result, we released one of the largest dataset of hosts/categories that is publicly available, wrote the [Cookies 2024](https://almanac.httparchive.org/en/2024/cookies) chapter of the Web Almanac and contributed to the analysis of the [Privacy 2024](https://almanac.httparchive.org/en/2024/privacy) chapter.
 
-## Hosts/Categories Classification
+## [Hosts/Categories Classification](https://har.fyi/reference/functions/get_host_categories)
 
 We classified all unique hostnames from all requests present in the HTTP Archive dataset that were made between November 2010 and June 2024 with the latest version of the [Topics API classifier](https://github.com/yohhaan/topics_classifier) (i.e., `chrome5`).
 

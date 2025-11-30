@@ -1,6 +1,6 @@
 ---
 geekdocAnchor: false
-title: Feb 2024 - Reimplementing the Topics API classifier
+title: Reimplementing the Topics API Classifier
 date: 2024-02-01
 type: posts
 tags:

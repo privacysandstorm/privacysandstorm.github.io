@@ -2,8 +2,8 @@
 geekdocAnchor: false
 title: Posts
 type: posts
-geekdocCollapseSection: true
-weight: 10
+geekdocCollapseSection: false
+weight: 30
 ---
 
 Posts

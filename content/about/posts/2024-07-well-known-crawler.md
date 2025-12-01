@@ -1,6 +1,6 @@
 ---
 geekdocAnchor: false
-title: f.well-known Crawler
+title: .well-known Crawler
 date: 2024-07-01
 type: posts
 tags:

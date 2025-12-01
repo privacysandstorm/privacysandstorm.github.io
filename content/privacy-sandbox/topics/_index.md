@@ -3,7 +3,7 @@ geekdocAnchor: false
 title: Topics API
 geekdocCollapseSection: true
 weight: 100
-customCites:
+customCitesFull:
   - snyderGooglesTopicsAPI2022
   - epastoMeasuresCrosssiteReidentification2022
   - vankesterenWebKitStandardsPositions2023

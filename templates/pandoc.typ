@@ -3,11 +3,17 @@ $if(title)$
 $endif$
 
 $body$
-
-$if(customCites)$
-$for(customCites)$
-- #cite(label("$customCites$"), form: "full")
+$if(customNoCites)$
+$for(customNoCites)$
+#cite(label("$customNoCites$"), form: none)
 $endfor$
 $endif$
+
+$if(customCitesFull)$
+$for(customCitesFull)$
+- #cite(label("$customCitesFull$"), form: "full")
+$endfor$
+$endif$
+
 
 

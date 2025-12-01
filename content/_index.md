@@ -19,7 +19,7 @@ This community-based effort was launched after the [HotPETs 2024 talk](https://p
 
 <p style="text-align:center">
 
-<!-- {{< button href="pdf/privacysandstorm-report.pdf" class="color-button" size="regular" >}}<img src='/icons/pdf.svg' style='height:1.25rem;'> Technical Report{{< /button >}} -->
+{{< button href="https://privacysandstorm.github.io/pdf/privacysandstorm-report.pdf" class="color-button" size="regular" >}}<img src='/icons/pdf.svg' style='height:1.25rem;'> Technical Report{{< /button >}}
 
 {{< button href="https://yohan.beugin.org/files/slides/HotPETS_2024.pdf" class="color-button" size="regular" >}}<img src='/icons/slides.svg' style='height:1.25rem;'> Slides{{< /button >}}
 

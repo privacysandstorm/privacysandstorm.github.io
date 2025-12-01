@@ -11,6 +11,9 @@ generateTypst () {
 
 }
 
+#List of Datasets & Software
+generateTypst ../content/about/posts/2025-11-datasets-software.md from-md/datasets-software.typ
+
 # Privacy Sandbox Proposals
 currentFileOutput=privacy-sandbox.typ
 echo "#import \"@preview/suboutline:0.3.0\": suboutline" > $currentFileOutput

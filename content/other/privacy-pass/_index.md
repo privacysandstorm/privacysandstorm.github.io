@@ -3,7 +3,7 @@ geekdocAnchor: false
 title: Privacy Pass
 geekdocCollapseSection: true
 weight: 100
-customCites:
+customCitesFull:
   - davidsonPrivacyPassBypassing2018
   - hanffSecurityAnalysisPrivately2025
 ---

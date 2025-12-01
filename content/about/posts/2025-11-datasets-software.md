@@ -6,13 +6,13 @@ type: posts
 tags:
   - Datasets & Software
 weight: 4
+customNoCites:
+  - vekariaSoKAdvancesOpen2025
 ---
 
-The objective of this post is to list different datasets and software that could be useful to other researchers who are evaluating the privacy claims of different advertising and web proposals.
+Our objective here is to list different resources that could be useful to researchers who are evaluating the privacy claims of different advertising and web proposals. Check out also similar content that is located elsewhere on our website under the ["Datasets & Software" tag](https://privacysandstorm.github.io/tags/Datasets-Software/).
 
-You may also want to check out similar content that is located elsewhere on this website under the ["Datasets & Software" tag](https://privacysandstorm.github.io/tags/Datasets-Software/).
-
-# Datasets
+## Datasets
 
 - [**HTTP Archive**](https://httparchive.org/): This project regularly crawls top websites to record different information about the resources being fetched, APIs used, etc. The dataset and historical crawls can be accessed through BigQuery.
 
@@ -32,7 +32,7 @@ You may also want to check out similar content that is located elsewhere on this
 
 - [**DuckDuckGo Tracker Radar**](https://github.com/duckduckgo/tracker-radar): dataset of most common third-party domains found on the web.
 
-# Software
+## Software
 
 - [**Topics Classifier**](https://github.com/yohhaan/topics_classifier): this repository reproduces Google's implementations of the Topics API for the Web and for Android.
 
@@ -41,3 +41,7 @@ You may also want to check out similar content that is located elsewhere on this
 - [**VisibleV8**](https://www.kapravelos.com/projects/vv8/): this is a custom variant of the V8 JavaScript engine at the heart of Chromium, the Node.js runtime, etc., that allows to capture and log JavaScript API calls while crawling websites for instance. This could be useful to researchers performing measurement studies on the Web.
 
 - [**DuckDuckGo Tracker Radar Collector**](https://github.com/duckduckgo/tracker-radar-collector): a modular, multithreaded, puppeteer-based crawler used to generate third party request data for DuckDuckGo Tracker Radar, but also used by several academic studies.
+
+## Other
+
+- [**SoK: Advances and Open Problems in Web Tracking**](https://arxiv.org/abs/2506.14057) for a systematization of developments in web tracking (threat model for the web, tracking techniques, defenses, regulations overview, and evolution) and identification of open problems in the field.

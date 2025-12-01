@@ -3,7 +3,7 @@ geekdocAnchor: false
 title: Analyses (General)
 geekdocCollapseSection: true
 weight: 100
-customCites:
+customCitesFull:
   - cyphersDontPlayGoogles2019
   - kleberMichaelkleberPrivacymodel2019
   - nottinghamPlayingFairPrivacy2021

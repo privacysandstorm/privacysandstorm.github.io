@@ -3,7 +3,7 @@ geekdocAnchor: false
 title: Shared Storage API
 geekdocCollapseSection: true
 weight: 100
-customCites:
+customCitesFull:
  - nisenoffExploitingSharedStorage2025
 ---
 

@@ -3,7 +3,7 @@ geekdocAnchor: false
 title: TURTLEDOVE/PARAKEET Proposals
 geekdocCollapseSection: true
 weight: 100
-customCites:
+customCitesFull:
  - iwanczakFutureFrequencyCapping2022
 ---
 

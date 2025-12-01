@@ -3,7 +3,7 @@ geekdocAnchor: false
 title: Title
 geekdocCollapseSection: true
 weight: 100
-customCites:
+customCitesFull:
  - bibkey
 ---
 

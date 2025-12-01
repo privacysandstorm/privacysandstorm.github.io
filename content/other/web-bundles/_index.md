@@ -3,7 +3,7 @@ geekdocAnchor: false
 title: Web Bundles
 geekdocCollapseSection: true
 weight: 100
-customCites:
+customCitesFull:
  - mozillaMozillaPositionWeb2019
  - snyderWebBundlesHarmfulContent2020
 ---

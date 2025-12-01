@@ -3,7 +3,7 @@ geekdocAnchor: false
 title: User-Agent Reduction & User-Agent Client Hints
 geekdocCollapseSection: true
 weight: 100
-customCites:
+customCitesFull:
  - snyderBravesConcernsClientHints2019
  - intumwayaseUARadarExploringImpact2023
  - senolUnveilingImpactUserAgent2023

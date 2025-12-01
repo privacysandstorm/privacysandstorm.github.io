@@ -3,7 +3,7 @@ geekdocAnchor: false
 title: SDK Runtime
 geekdocCollapseSection: true
 weight: 100
-customCites:
+customCitesFull:
  - luPrivacyPreservingSocialMediaSDKs2024
 ---
 

@@ -3,7 +3,7 @@ geekdocAnchor: false
 title: DNS-over-HTTPS
 geekdocCollapseSection: true
 weight: 100
-customCites:
+customCitesFull:
  - sahibEncryptingDNSZone2021
 ---
 

@@ -3,7 +3,7 @@ geekdocAnchor: false
 title: Attestation/Enrollment
 geekdocCollapseSection: true
 weight: 100
-customCites:
+customCitesFull:
   - beuginWebAlmanacCookies2024
 ---
 

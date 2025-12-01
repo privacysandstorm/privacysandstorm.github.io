@@ -3,7 +3,7 @@ geekdocAnchor: false
 title: Federated Credential Management API
 geekdocCollapseSection: true
 weight: 100
-customCites:
+customCitesFull:
  - westersSingleSignOnPrivacy2024
  - vacekIntegraceFedCMAPI2024
 ---

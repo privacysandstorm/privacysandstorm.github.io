@@ -3,7 +3,7 @@ geekdocAnchor: false
 title: FLoC API
 geekdocCollapseSection: true
 weight: 100
-customCites:
+customCitesFull:
  - ravichandranEvaluationCohortAlgorithms2020
  - snyderWhyBraveDisables2021
  - cyphersGooglesFLoCTerrible2021

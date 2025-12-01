@@ -3,7 +3,7 @@ geekdocAnchor: false
 title: SWAN & Unified ID 2.0
 geekdocCollapseSection: true
 weight: 100
-customCites:
+customCitesFull:
  - thomsonCommentsSWANUnified2021
 ---
 

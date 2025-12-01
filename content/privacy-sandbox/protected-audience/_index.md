@@ -3,7 +3,7 @@ geekdocAnchor: false
 title: Protected Audience API (FLEDGE)
 geekdocCollapseSection: true
 weight: 100
-customCites:
+customCitesFull:
  - ruminskiFindingsEarlyFledge2022
  - thomsonProtectedAudiencePrivacy2024
  - philipsePostThirdPartyCookies2024

@@ -1,4 +1,5 @@
 #import "typst-acmart-popets/clean-acmart.typ": acmart, acmart-keywords, to-string
+#import "@preview/suboutline:0.3.0": suboutline
 
 #let title = [
   Technical Report: The Need for a (Research) Sandstorm through the Privacy Sandbox
@@ -39,21 +40,25 @@
 
 #acmart-keywords(keywords)
 
-#include "01-introduction.typ"
+#linebreak()
 
-// #colbreak()
+#box(fill: luma(200), inset: 5pt, [ #strong[Note:]
+  While Google deprecated in October 2025 most of the Privacy Sandbox APIs, we argue that it is still important to evaluate these and other proposals; if only to create more secure and private ones in the future.
+])
+
+#outline(depth: 1)
+
+
+#include "introduction.typ"
+#include "research-portal.typ"
+#include "from-md/datasets-software.typ"
 #include "privacy-sandbox.typ"
-// #colbreak()
 #include "other-proposals.typ"
-// #colbreak()
 
 #heading(level: 1, numbering: none)[Acknowledgements]
 #include "from-md/ack.typ"
 
-
 #bibliography("refs.bib", title: "References", style: "association-for-computing-machinery")
-
-
 
 // #colbreak(weak: true)
 // #set heading(numbering: "A.a.a")

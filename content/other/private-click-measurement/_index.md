@@ -3,7 +3,7 @@ geekdocAnchor: false
 title: Private Click Measurement
 geekdocCollapseSection: true
 weight: 100
-customCites:
+customCitesFull:
  - thomsonAnalysisApplesPrivate2022
 ---
 

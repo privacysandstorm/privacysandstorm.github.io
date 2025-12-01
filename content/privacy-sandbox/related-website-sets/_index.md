@@ -3,7 +3,7 @@ geekdocAnchor: false
 title: Related Website Sets
 geekdocCollapseSection: true
 weight: 100
-customCites:
+customCitesFull:
   - snyderFirstPartySetsTearing2022
   - mcquistinFirstLookRelated2024
   - beuginWebAlmanacCookies2024

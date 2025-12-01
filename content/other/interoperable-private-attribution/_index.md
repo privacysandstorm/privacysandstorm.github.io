@@ -3,7 +3,7 @@ geekdocAnchor: false
 title: Interoperable Private Attribution
 geekdocCollapseSection: true
 weight: 100
-customCites:
+customCitesFull:
  - caseInteroperablePrivateAttribution2023
 ---
 

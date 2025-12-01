@@ -3,7 +3,7 @@ geekdocAnchor: false
 title: Privacy State Tokens
 geekdocCollapseSection: true
 weight: 100
-customCites:
+customCitesFull:
  - aliNavigatingMurkyWaters2023
 ---
 

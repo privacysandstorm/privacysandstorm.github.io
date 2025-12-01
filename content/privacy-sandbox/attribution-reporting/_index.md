@@ -3,7 +3,7 @@ geekdocAnchor: false
 title: Attribution Reporting API
 geekdocCollapseSection: true
 weight: 100
-customCites:
+customCitesFull:
  - langPrivacySandboxAggregation2024
  - aksuSummaryReportsOptimization2024
  - delaneyDifferentiallyPrivateAd2024

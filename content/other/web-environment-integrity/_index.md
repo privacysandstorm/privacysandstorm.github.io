@@ -3,7 +3,7 @@ geekdocAnchor: false
 title: Web Environment Integrity
 geekdocCollapseSection: true
 weight: 100
-customCites:
+customCitesFull:
  - snyderWebEnvironmentIntegrity2023
  - hoffman-andrewsYourComputerShould2023
  - grinsteadRequestMozillaPosition2023

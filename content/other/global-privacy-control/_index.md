@@ -3,7 +3,7 @@ geekdocAnchor: false
 title: Global Privacy Control
 geekdocCollapseSection: true
 weight: 100
-customCites:
+customCitesFull:
   - snyderGlobalPrivacyControl2020
 ---
 

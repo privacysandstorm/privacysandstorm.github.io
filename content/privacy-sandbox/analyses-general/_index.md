@@ -12,6 +12,7 @@ customCitesFull:
   - olejnikGovernancePrivacypreservingSystems2023
   - olejnikReconcilingPrivacySandbox2023
   - johnsonAdventPrivacycentricDigital2024
+  - munirGooglesChromeAntitrust2024
   - johnsonUnearthingPrivacyEnhancingAd2024
   - iabPrivacySandbox2024
   - kobayashiPrivacyEnhancedTraditionalRetargeting2024

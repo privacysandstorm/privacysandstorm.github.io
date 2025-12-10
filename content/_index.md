@@ -19,7 +19,7 @@ This community-based effort was launched after the [HotPETs 2024 talk](https://p
 
 <p style="text-align:center">
 
-{{< button href="https://privacysandstorm.github.io/pdf/privacysandstorm-report.pdf" class="color-button" size="regular" >}}<img src='/icons/pdf.svg' style='height:1.25rem;'> Technical Report{{< /button >}}
+{{< button href="https://arxiv.org/abs/2512.03207" class="color-button" size="regular" >}}<img src='/icons/pdf.svg' style='height:1.25rem;'> Technical Report{{< /button >}}
 
 {{< button href="https://yohan.beugin.org/files/slides/HotPETS_2024.pdf" class="color-button" size="regular" >}}<img src='/icons/slides.svg' style='height:1.25rem;'> Slides{{< /button >}}
 
@@ -35,7 +35,7 @@ This community-based effort was launched after the [HotPETs 2024 talk](https://p
 
 
 {{< hint type="important" title="News & Updates" >}}
-- **November 2025**: We updated this research portal with several new resources and released this [technical report](https://privacysandstorm.github.io/pdf/privacysandstorm-report.pdf), check them out!
+- **November 2025**: We updated this research portal with several new resources and released this [technical report](https://arxiv.org/abs/2512.03207), check them out!
 - **October 2025**: Google [officially announced](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/) the deprecation of (most of) the Privacy Sandbox APIs.
 - **June 2025**: We systematized developments and identify open problems in web tracking in [this SoK](https://arxiv.org/abs/2506.14057).
 - **April 2025**: Google [retracted](https://privacysandbox.com/news/privacy-sandbox-next-steps/) that Chrome users would be prompted to make an informed choice about third-party cookies.

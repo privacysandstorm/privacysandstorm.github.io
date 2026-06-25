@@ -1,7 +1,7 @@
 ---
 geekdocAnchor: false
 title: Web Almanac 2025 Chapter
-weight: 40
+weight: 50
 ---
 
 **Title:** [Cookies Chapter - CHIPS Measurement](https://almanac.httparchive.org/en/2025/cookies#partitioned)

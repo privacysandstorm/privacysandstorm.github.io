@@ -1,8 +1,8 @@
 ---
 geekdocAnchor: false
-title: Analyses (General)
-geekdocCollapseSection: true
-weight: 100
+title: Broader Analyses
+geekdocCollapseSection: false
+weight: 10
 customCitesFull:
   - cyphersDontPlayGoogles2019
   - kleberMichaelkleberPrivacymodel2019
@@ -16,10 +16,10 @@ customCitesFull:
   - johnsonUnearthingPrivacyEnhancingAd2024
   - iabPrivacySandbox2024
   - kobayashiPrivacyEnhancedTraditionalRetargeting2024
-  - guCanPrivacyTechnologies2025
+  - guCanPrivacyTechnologies2026
 
 ---
 
-We list below general analyses about the Privacy Sandbox that do not exactly correspond to a specific API.
+We list below general analyses about the Privacy Sandbox broadly; these do not correspond to a specific individual API.
 
 {{< toc-tree >}}

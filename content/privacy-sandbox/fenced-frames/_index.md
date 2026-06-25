@@ -13,7 +13,7 @@ This API is still being maintained by Google in Chrome, even after the [deprecat
 Fenced frames are similar to iframes, i.e., embedded frames with HTML content, with the distinction that they enforce a strict boundary between the embedded content and the embedding page that can not access each other context's DOM. These fenced frames are intended to be used by other Privacy Sandbox APIs, such as the Protected Audience or Shared Storage APIs to prevent for instance publishers to learn any information about an ad auction winner and the ad displayed to users.
 
 ## How does it work?
-Compatible web browsers serve fenced frames and manage the boundary with the embedding context by mapping the URL of the fenced frame to an opaque URL and restricting access to the resources available from inside a fenced fame.
+Compatible web browsers serve fenced frames and manage the boundary with the embedding context by mapping the URL of the fenced frame to an opaque URL and restricting access to the resources available from inside a fenced frame.
 
 - **API:**
   - JS:

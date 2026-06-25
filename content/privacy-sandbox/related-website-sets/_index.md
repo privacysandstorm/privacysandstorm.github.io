@@ -21,7 +21,7 @@ Specifically, RWS is a way for a company to declare relationships among sites, s
 ## How does it work?
 
 {{< hint type=tip >}}
-Check out our `.well-known` [crawler](https://github.com/privacysandstorm/well-known-crawler) and [analysis](https://github.com/privacysandstorm/well-known-crawler-analysis) code, more details also on [this post](https://privacysandstorm.github.io/about/posts/2024-07-well-known-crawler).
+Check out our `.well-known` [scanner](https://github.com/privacysandstorm/well-known-crawler) and [analysis](https://github.com/privacysandstorm/well-known-crawler-analysis) code, more details also on [this post](https://privacysandstorm.com/about/posts/2024-07-well-known-scanner).
 {{</hint>}}
 
 A related website set consists of one primary site and up to five associated sites. To use a set, its JSON must be added to the `related_website_sets.JSON` file available on the RWS GitHub repository, which Chrome then consumes to get the list of sets to apply RWS behavior to. `.well-known` files.

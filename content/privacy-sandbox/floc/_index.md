@@ -33,7 +33,7 @@ With FLoC, every week web browsers assign users to an interest group (or cohort)
 {{< hint type=important title="Remarks" >}}
 From our <a href="https://doi.org/10.56553/popets-2024-0004">PETS'24</a> paper:
 
-*``Independent analyses of FLoC revealed a variety of privacy concerns: (1) requirement in trusting a single actor to maintain adequate k-anonymity, (2) concern that cohort IDs could create or be linked to fingerprinting techniques, (3) risk of re-identifying users by tracking their cohort IDs over time and by isolating them into specific cohorts through Sybil attacks. Finally, while some parameters and details of FLoC were still unclear, advertisers also had concerns about how to interpret the cohort ID for utility. Google eventually dropped FLoC for the [Topics API](https://privacysandstorm.github.io/privacy-sandbox/topics).''*
+*``Independent analyses of FLoC revealed a variety of privacy concerns: (1) requirement in trusting a single actor to maintain adequate k-anonymity, (2) concern that cohort IDs could create or be linked to fingerprinting techniques, (3) risk of re-identifying users by tracking their cohort IDs over time and by isolating them into specific cohorts through Sybil attacks. Finally, while some parameters and details of FLoC were still unclear, advertisers also had concerns about how to interpret the cohort ID for utility. Google eventually dropped FLoC for the [Topics API](https://privacysandstorm.com/privacy-sandbox/topics).''*
 {{</hint>}}
 
 ## Analyses

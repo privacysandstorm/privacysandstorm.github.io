@@ -13,7 +13,7 @@ This community-based effort was launched after the [HotPETs 2024 talk](/content/
   month = jul,
   year = {2024},
   booktitle = {17th Workshop on Hot Topics in Privacy Enhancing Technologies (HotPETs)},
-  url = {https://privacysandstorm.github.io},
+  url = {https://privacysandstorm.com},
 }
 ```
 

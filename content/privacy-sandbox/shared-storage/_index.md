@@ -21,7 +21,7 @@ This is done by allowing unlimited, cross-site storage write access with privacy
 
 - **API call:**
   - The party can write into storage using `window.sharedStorage` API
-  - Available commands : `set,put,delete,clear`
+  - Available commands : `set,append,delete,clear`
   - Read from shared storage : only allowed in a fenced frame initiated by the same party
 - [Documentation](https://developer.chrome.com/en/docs/privacy-sandbox/shared-storage/)
 - [MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Shared_Storage_API)

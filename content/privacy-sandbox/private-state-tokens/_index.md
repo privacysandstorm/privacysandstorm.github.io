@@ -1,6 +1,6 @@
 ---
 geekdocAnchor: false
-title: Privacy State Tokens
+title: Private State Tokens
 geekdocCollapseSection: true
 weight: 100
 customCitesFull:

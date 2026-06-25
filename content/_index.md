@@ -11,11 +11,11 @@ geekdocAlign: left
 </p>
 
 <--->
-**Privacy Sandstorm** is a research portal that gathers resources about the [Privacy Sandbox](https://privacysandstorm.github.io/privacy-sandbox) initiative from Google as well as [other proposals](https://privacysandstorm.github.io/other) related to online security, privacy, and advertising. Our main objectives are to:
+**Privacy Sandstorm** is a research portal that gathers resources about the [Privacy Sandbox](https://privacysandstorm.com/privacy-sandbox) initiative from Google as well as [other proposals](https://privacysandstorm.com/other) related to online security, privacy, and advertising. Our main objectives are to:
 1. Give broader visibility to the findings from the research community in that space.
 2. Coordinate multidisciplinary approaches to evaluate and improve these proposals.
 
-This community-based effort was launched after the [HotPETs 2024 talk](https://privacysandstorm.github.io/about/hotpets2024) *``The Need for a (Research) Sandstorm through the Privacy Sandbox'' by Yohan Beugin and Patrick McDaniel*.
+This community-based effort was launched after the [HotPETs 2024 talk](https://privacysandstorm.com/about/hotpets2024) *``The Need for a (Research) Sandstorm through the Privacy Sandbox'' by Yohan Beugin and Patrick McDaniel*.
 
 <p style="text-align:center">
 
@@ -23,7 +23,7 @@ This community-based effort was launched after the [HotPETs 2024 talk](https://p
 
 {{< button href="https://yohan.beugin.org/files/slides/HotPETS_2024.pdf" class="color-button" size="regular" >}}<img src='/icons/slides.svg' style='height:1.25rem;'> Slides{{< /button >}}
 
-{{< button href="https://privacysandstorm.github.io/" class="color-button" size="regular" >}}<img src='/icons/website.svg' style='height:1.25rem;'> Website{{< /button >}}
+{{< button href="https://privacysandstorm.com/" class="color-button" size="regular" >}}<img src='/icons/website.svg' style='height:1.25rem;'> Website{{< /button >}}
 
 {{< button href="https://github.com/privacysandstorm" class="color-button" size="regular" >}}<img src='/icons/github.svg' style='height:1.25rem;'> GitHub{{< /button >}}
 
@@ -39,19 +39,19 @@ This community-based effort was launched after the [HotPETs 2024 talk](https://p
 - **October 2025**: Google [officially announced](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/) the deprecation of (most of) the Privacy Sandbox APIs.
 - **June 2025**: We systematized developments and identify open problems in web tracking in [this SoK](https://arxiv.org/abs/2506.14057).
 - **April 2025**: Google [retracted](https://privacysandbox.com/news/privacy-sandbox-next-steps/) that Chrome users would be prompted to make an informed choice about third-party cookies.
-- **Fall 2024**: We added [instrumentation](https://privacysandstorm.github.io/datasets-software/http-archive) and [Topics classification](https://har.fyi/reference/functions/get_host_categories) to the HTTP Archive, and collaborated on the 2024 Web Almanac [Cookies](https://almanac.httparchive.org/en/2024/cookies) and [Privacy](https://almanac.httparchive.org/en/2024/privacy) chapters.
+- **Fall 2024**: We added [instrumentation](https://privacysandstorm.com/datasets-software/http-archive) and [Topics classification](https://har.fyi/reference/functions/get_host_categories) to the HTTP Archive, and collaborated on the 2024 Web Almanac [Cookies](https://almanac.httparchive.org/en/2024/cookies) and [Privacy](https://almanac.httparchive.org/en/2024/privacy) chapters.
 - **July 2024**: Google [announced](https://privacysandbox.com/news/privacy-sandbox-update/) reversing course on third-party cookies deprecation.
-- **July 2024**: The Privacy Sandstorm website and Slack workspace were made public for [this HotPETs 2024 talk](https://privacysandstorm.github.io/about/hotpets2024).
+- **July 2024**: The Privacy Sandstorm website and Slack workspace were made public for [this HotPETs 2024 talk](https://privacysandstorm.com/about/hotpets2024).
 {{</hint>}}
 
 ## Resources
 {{< columns >}}
 ### Proposals & Research Findings
-Check out the resources we aggregated about the [Privacy Sandbox](https://privacysandstorm.github.io/privacy-sandbox) and [other](https://privacysandstorm.github.io/other) proposals, like on the [Topics API](https://privacysandstorm.github.io/privacy-sandbox/topics).
+Check out the resources we aggregated about the [Privacy Sandbox](https://privacysandstorm.com/privacy-sandbox) and [other](https://privacysandstorm.com/other) proposals, like on the [Topics API](https://privacysandstorm.com/privacy-sandbox/topics).
 
 <--->
 ### Datasets & Software
-Refer to the list of different [datasets and software](https://privacysandstorm.github.io/tags/Datasets-Software/), something may be helpful to your own research!
+Refer to the list of different [datasets and software](https://privacysandstorm.com/tags/Datasets-Software/), something may be helpful to your own research!
 
 <--->
 ### Slack Workspace

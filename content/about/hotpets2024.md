@@ -15,7 +15,7 @@ This community-based effort was launched after the following HotPETs 2024 talk:
   month = jul,
   year = {2024},
   booktitle = {17th Workshop on Hot Topics in Privacy Enhancing Technologies (HotPETs)},
-  url = {https://privacysandstorm.github.io},
+  url = {https://privacysandstorm.com},
 }
 ```
 <p style="text-align:center">
@@ -24,7 +24,7 @@ This community-based effort was launched after the following HotPETs 2024 talk:
 
 {{< button href="https://yohan.beugin.org/files/slides/HotPETS_2024.pdf" class="color-button" size="regular" >}}<img src='/icons/slides.svg' style='height:1.25rem;'> Slides{{< /button >}}
 
-{{< button href="https://privacysandstorm.github.io/" class="color-button" size="regular" >}}<img src='/icons/website.svg' style='height:1.25rem;'> Website{{< /button >}}
+{{< button href="https://privacysandstorm.com/" class="color-button" size="regular" >}}<img src='/icons/website.svg' style='height:1.25rem;'> Website{{< /button >}}
 
 {{< button href="https://github.com/privacysandstorm" class="color-button" size="regular" >}}<img src='/icons/github.svg' style='height:1.25rem;'> GitHub{{< /button >}}
 
@@ -41,7 +41,7 @@ Refer also to the following technical report that is generated from the content 
   month  = dec,
   year   = {2025},
   doi    = {10.48550/arXiv.2512.03207},
-  url    = {https://privacysandstorm.github.io}
+  url    = {https://privacysandstorm.com}
 }
 ```
 {{</hint>}}

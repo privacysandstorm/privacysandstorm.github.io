@@ -33,7 +33,7 @@ This API is being deprecated, see the [official announcement](https://privacysan
 ## How does it work?
 
 {{< hint type=tip >}}
-Check out our exact reimplementation of the [Topics Classifier (Web + Android)](https://github.com/yohhaan/topics_classifier), more details also on [this post](https://privacysandstorm.github.io/about/posts/2024-02-topics-classifier).
+Check out our exact reimplementation of the [Topics Classifier (Web + Android)](https://github.com/yohhaan/topics_classifier), more details also on [this post](https://privacysandstorm.com/about/posts/2024-02-topics-classifier).
 {{</hint>}}
 
 **On the Web:** The Topics API works by having the web browser classify the websites visited by users into categories of interest. Advertisers who are embedded on websites can observe some of the recent top users’ topics and use that information to perform an ad auction.

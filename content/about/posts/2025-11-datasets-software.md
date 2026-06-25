@@ -10,7 +10,7 @@ customNoCites:
   - vekariaSoKAdvancesOpen2025
 ---
 
-Our objective here is to list different resources that could be useful to researchers who are evaluating the privacy claims of different advertising and web proposals. Check out also similar content that is located elsewhere on our website under the ["Datasets & Software" tag](https://privacysandstorm.github.io/tags/Datasets-Software/).
+Our objective here is to list different resources that could be useful to researchers who are evaluating the privacy claims of different advertising and web proposals. Check out also similar content that is located elsewhere on our website under the ["Datasets & Software" tag](https://privacysandstorm.com/tags/Datasets-Software/).
 
 ## Datasets
 
@@ -18,7 +18,7 @@ Our objective here is to list different resources that could be useful to resear
 
 - [**HTTP Archive - Topics Classification**](https://har.fyi/reference/functions/get_host_categories): We classified all unique hostnames from all requests present in the HTTP Archive dataset that were made between November 2010 and June 2024 with the latest version of the Topics API classifier (i.e., `chrome5`). The classification spans a total of more than 147 million hostnames corresponding to 31 million unique domains. You can access the results either through the new `GET_HOST_CATEGORIES` BigQuery function on the HTTP Archive dataset or by directly querying the raw data in the `httparchive.urls.categories` table.
 
-- [**.well-known dataset**](https://privacysandstorm.com/about/posts/2024-07-well-known-crawler/): attestations and related website sets discovered by the corresponding crawler are made publicly available.
+- [**.well-known dataset**](https://privacysandstorm.com/about/posts/2024-07-well-known-scanner/): attestations and related website sets discovered by the corresponding scanner are made publicly available.
 
 - [**Criteo Research Datasets**](https://ailab.criteo.com/ressources/): Criteo, a French-based advertising company, has released over the years several datasets related to advertising campaigns, clicks, conversion, etc.
 
@@ -36,7 +36,7 @@ Our objective here is to list different resources that could be useful to resear
 
 - [**Topics Classifier**](https://github.com/yohhaan/topics_classifier): this repository reproduces Google's implementations of the Topics API for the Web and for Android.
 
-- [**.well-known crawler**](https://privacysandstorm.com/about/posts/2024-07-well-known-crawler/): we regularly crawl the Web for the presence of `.well-known` resources and files that were introduced by the Related Website Sets and Attestation from the Privacy Sandbox.
+- [**.well-known scanner**](https://privacysandstorm.com/about/posts/2024-07-well-known-scanner/): we used to regularly scan the Web for the presence of `.well-known` resources and files that were introduced by the Related Website Sets and Attestation from the Privacy Sandbox.
 
 - [**VisibleV8**](https://www.kapravelos.com/projects/vv8/): this is a custom variant of the V8 JavaScript engine at the heart of Chromium, the Node.js runtime, etc., that allows to capture and log JavaScript API calls while crawling websites for instance. This could be useful to researchers performing measurement studies on the Web.
 

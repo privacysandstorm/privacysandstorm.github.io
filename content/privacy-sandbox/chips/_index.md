@@ -5,6 +5,7 @@ geekdocCollapseSection: true
 weight: 100
 customCitesFull:
  - beuginWebAlmanacCookies2024
+ - beuginWebAlmanacCookies2026
 ---
 
 {{< hint type=important >}}

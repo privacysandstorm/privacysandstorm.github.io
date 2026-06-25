@@ -5,6 +5,7 @@ geekdocCollapseSection: true
 weight: 100
 customCitesFull:
  - ruminskiFindingsEarlyFledge2022
+ - aliNavigatingMurkyWaters2023
  - thomsonProtectedAudiencePrivacy2024
  - philipsePostThirdPartyCookies2024
  - longEvaluatingGooglesProtected2024

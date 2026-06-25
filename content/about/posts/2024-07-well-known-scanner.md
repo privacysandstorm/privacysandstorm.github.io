@@ -1,6 +1,6 @@
 ---
 geekdocAnchor: false
-title: .well-known Crawler
+title: .well-known Scanner
 date: 2024-07-01
 type: posts
 tags:
@@ -10,10 +10,10 @@ weight: 2
 
 {{< hint type=note >}}
 - **Author:** Yohan Beugin
-- **GitHub repository:** [Crawler](https://github.com/privacysandstorm/well-known-crawler) & [Analysis](https://github.com/privacysandstorm/well-known-crawler-analysis) code
+- **GitHub repository:** [Scanner](https://github.com/privacysandstorm/well-known-crawler) & [Analysis](https://github.com/privacysandstorm/well-known-crawler-analysis) code
 {{</hint>}}
 
-We regularly crawl the Web for the presence of `.well-known` resources and files that were introduced by the following Privacy Sandbox mechanisms:
+We used to regularly scan the Web for the presence of `.well-known` resources and files that were introduced by the following Privacy Sandbox mechanisms:
 
 - [Related Website Sets](https://github.com/GoogleChrome/related-website-sets)
   - `/.well-known/related-website-set.json`
@@ -33,7 +33,7 @@ We regularly crawl the Web for the presence of `.well-known` resources and files
 
 ### Requestor pays buckets
 
-Datasets for this crawler are stored on Amazon S3 in [requestor pays buckets](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ObjectsinRequesterPaysBuckets.html). This means that you must pay API call and data transfer rates associated with downloading the data. All datasets are stored in the `us-east-2` region, so you can avoid data transfer fees by performing analysis within this region.
+Datasets for this scan are stored on Amazon S3 in [requestor pays buckets](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ObjectsinRequesterPaysBuckets.html). This means that you must pay API call and data transfer rates associated with downloading the data. All datasets are stored in the `us-east-2` region, so you can avoid data transfer fees by performing analysis within this region.
 
 ### Buckets
 

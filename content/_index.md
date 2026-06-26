@@ -35,10 +35,11 @@ This community-based effort was launched after the [HotPETs 2024 talk](https://p
 
 
 {{< hint type="important" title="News & Updates" >}}
+- **June 2026**: We released this longitudinal measurement study: [Lessons from the Adoption and Deprecation of the Privacy Sandbox Web APIs](https://doi.org/10.48550/arXiv.2606.26390). Interactive dashboard to further explore the data coming shortly to the Privacy Sandstorm website!
 - **January 2026**: Google deprecated the [Attribution Reporting](https://chromestatus.com/feature/6320639375966208), [Private Aggregation](https://chromestatus.com/feature/4683382919397376), [Protected Audience](https://chromestatus.com/feature/6552486106234880), [RWS](https://chromestatus.com/feature/5194473869017088), [Shared Storage](https://chromestatus.com/feature/5076349064708096), and [Topics](https://groups.google.com/a/chromium.org/g/blink-dev/c/_R85yctz4Rs) APIs in Chrome 144.
 - **November 2025**: We updated this research portal with several new resources and released a [technical report](https://arxiv.org/abs/2512.03207).
 - **October 2025**: Google [officially announced](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/) the deprecation of (most of) the Privacy Sandbox APIs.
-- **June 2025**: [SoK: Advances and Open Problems in Web Tracking](https://arxiv.org/abs/2506.14057) released with collaborators.
+- **June 2025**: We released the following [SoK: Advances and Open Problems in Web Tracking](https://arxiv.org/abs/2506.14057) with collaborators.
 - **April 2025**: Google [retracted](https://privacysandbox.com/news/privacy-sandbox-next-steps/) wanting to prompt Chrome users for third-party cookies choice.
 - **Fall 2024**: We added [instrumentation](https://privacysandstorm.com/datasets-software/http-archive) and [Topics classification](https://har.fyi/reference/functions/get_host_categories) to the HTTP Archive, and collaborated on the 2024 Web Almanac [Cookies](https://almanac.httparchive.org/en/2024/cookies) and [Privacy](https://almanac.httparchive.org/en/2024/privacy) chapters.
 - **July 2024**: Google [announced](https://privacysandbox.com/news/privacy-sandbox-update/) reversing course on third-party cookies deprecation.

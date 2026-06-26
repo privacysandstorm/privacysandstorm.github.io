@@ -11,6 +11,7 @@ customCitesFull:
   - iabPrivacySandbox2024
   - kobayashiPrivacyEnhancedTraditionalRetargeting2024
   - guCanPrivacyTechnologies2026
+  - benzaamiaPrivacySettingsAd2026
 
 ---
 

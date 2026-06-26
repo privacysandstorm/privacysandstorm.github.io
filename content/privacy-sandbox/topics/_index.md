@@ -18,6 +18,7 @@ customCitesFull:
   - beuginPublicReproducibleAssessmentTopics2024
   - beuginInterestDisclosingMechanismsAdvertising2024
   - dickDifferentiallyPrivateSynthetic2025
+  - sriviroteInferringUsersDemographics2026
 ---
 
 {{< hint type=warning >}}

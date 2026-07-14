@@ -29,6 +29,19 @@ do
   # echo $dir
   generateTypst ../content/privacy-sandbox/$dir/_index.md from-md/ps-$dir.typ
   echo "#include \"from-md/ps-$dir.typ\"" >> $currentFileOutput
+  if [ $dir = "analyses" ]; then
+    echo "#set heading(offset: 2)  // globally increase offset" >> $currentFileOutput
+
+    for dir2 in ../content/privacy-sandbox/analyses/*/
+    do
+      dir2=${dir2%*/} #remove /
+      dir2=${dir2##*/} #get only filename
+      # echo $dir2
+      generateTypst ../content/privacy-sandbox/analyses/$dir2/_index.md from-md/ps-analyses-$dir2.typ
+      echo "#include \"from-md/ps-analyses-$dir2.typ\"" >> $currentFileOutput
+    done
+    echo "#set heading(offset: 1)  // globally increase offset" >> $currentFileOutput
+  fi
 done
 
 
